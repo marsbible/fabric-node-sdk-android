@@ -1,5 +1,5 @@
 fabric node sdk for android, used for nodejs-mobile project.
-Please take the project below as a sample:
+Please take the project below as an example:
 https://github.com/janeasystems/nodejs-mobile-samples/tree/master/android/native-gradle-node-folder
 
 Just copy node_modules to your assets/nodejs-project directory, then enjoy the fabric node sdk :).
