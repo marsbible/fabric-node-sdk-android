@@ -37,7 +37,7 @@ export npm_config_platform=android
 export npm_config_node_engine=v8
 export npm_config_nodedir=~/libnode/
 #export npm_config_node_gyp=
-export GYP_DEFINES="OS=android host_os=linux libgcc=/home/marble/android-toolchain/lib/gcc/arch64-linux-android/4.9.x/libgcc.a"
+export GYP_DEFINES="OS=android host_os=linux libgcc=/home/marble/android-toolchain/lib/gcc/aarch64-linux-android/4.9.x/libgcc.a"
 
 #node-gyp rebuild --target=$NODE -v
 #node-pre-gyp --target_platform=android --target_libc=unknown --target_arch=arm64  --target=$NODE --build-from-source install --library=static_library
